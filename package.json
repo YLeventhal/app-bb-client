@@ -1,0 +1,19 @@
+{
+  "name": "app-bb-client",
+  "version": "1.0.0",
+  "description": "a bare bones client app to play with",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YLeventhal/app-bb-client.git"
+  },
+  "author": "yehoshua leventhal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YLeventhal/app-bb-client/issues"
+  },
+  "homepage": "https://github.com/YLeventhal/app-bb-client#readme"
+}
